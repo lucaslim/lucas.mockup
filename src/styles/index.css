@@ -1,0 +1,10 @@
+@import 'basscss-basic';
+
+:root {
+  --fontSize: 1rem;
+  --mainColor: white;
+}
+
+body {
+  background: var(--mainColor);
+}
